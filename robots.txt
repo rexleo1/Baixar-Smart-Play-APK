@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://semper-haus-radebeul.pages.dev/sitemap.xml
+Sitemap: https://rexleo1.github.io/Baixar-Smart-Play-APK/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
